@@ -1,4 +1,4 @@
-# RAM consumption 🖥️
+# RAM consumption 📈
 
 Create an application which will graphically depict the RAM consumption using a bar graph as per the system 6 applications running in background.
 

@@ -7,3 +7,5 @@ Create an application which will graphically depict the RAM consumption using a 
 - psutil library, the psutil (process and system utilities), is a cross-platform library for retrieving the information on running processes and system utilization(cpu,memory,disks,networks,sensors) in python.
 
 - psutil.process_iter() is basically an iterator that provides various information about the background applications like process id, process name, cpu_usage, memory_usage etc.
+
+![result](https://user-images.githubusercontent.com/100588945/175825816-c240d435-d69c-4702-93ee-210e4fa8bc93.png)
